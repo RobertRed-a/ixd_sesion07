@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
+
+
+:root {
+      --bs-body-font-family: 'PT Mono', monospace;
+}
+
+html, body{
+    min-height: 100%;
+}
+h1 {color: limegreen;}
+
+h1 span:first-child{
+    font-weight: 600;
+    color: limegreen ;
+}
+
+a{
+    color: greenyellow;
+    text-decoration: none;
+}
+
+a.hover {color: whitesmoke;}
+footer {color: limegreen;}
+
+
+
