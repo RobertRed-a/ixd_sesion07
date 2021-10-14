@@ -21,8 +21,12 @@ a{
     color: greenyellow;
     text-decoration: none;
 }
+a:hover{
+    color: #D3D3D3;
+    text-decoration: none;
+    transition: color ease 3s;
+}
 
-a:hover {color: whitesmoke;}
 footer {color: limegreen;}
 
 
